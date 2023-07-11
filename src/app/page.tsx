@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import NextLogo from '@img/next.svg'
-import VercelLogo from '@img/next.svg'
+import VercelLogo from '@img/vercel.svg'
 import styles from './page.module.css'
 
 export default function Home() {
